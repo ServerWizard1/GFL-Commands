@@ -1,0 +1,22 @@
+{
+  "name": "gflcommands",
+  "version": "1.0.0",
+  "description": "Commands for the GFL bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ServerWizard1/GFL-Commands.git"
+  },
+  "author": "ServerWizard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ServerWizard1/GFL-Commands/issues"
+  },
+  "homepage": "https://github.com/ServerWizard1/GFL-Commands#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
